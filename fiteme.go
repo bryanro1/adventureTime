@@ -9,7 +9,7 @@ import (
 
 type choices struct {
 	cmd 			string // player choice
-	description 	string
+	description 		string
 	nextNode 		*storyNode
 	nextChoice 		*choices
 }
