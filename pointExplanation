@@ -1,0 +1,13 @@
+x1.25 for using GitHub
+x1.5 for using GoLang
++1 for 10 rooms
++1 for good/bad ending
++0.5 for recursion in play method
++1/+2 for definite goal (can only win by interacting with certain character but I didn't know if that is enough for allies/enemies bonus)
++1 for hard-coded map
++1 for changes in map through events (after first fight)
++1 for characters to interact with
++1 for aggressive characters (its more about choosing to run or not but I think that still means they are aggressive)
++1 for characters to interact with
+
+I didn't use any StackOverflow help but I the series from https://www.youtube.com/user/jackmott2/ help tutorials on building games in GoLang.
